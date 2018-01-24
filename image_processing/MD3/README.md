@@ -8,8 +8,9 @@ Build
 
 ```
 javac Hue.java
-javac Bicubic.java
-javac Bilinear.java
+javac Edge.java
+javac SUSAN.java
+javac Compress.java
 ```
 
 Run
