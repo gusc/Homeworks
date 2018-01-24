@@ -1,0 +1,259 @@
+{"Spele": {
+ "Laiks": "2017/01/19",
+ "Skatitaji": 6946,
+ "Vieta": "Newlands Stadium",
+ "T": [
+  {
+   "Uzvards": "Honkanen",
+   "Vards": "Jukka"
+  },
+  {
+   "Uzvards": "Cariolato",
+   "Vards": "Gianluca"
+  }
+ ],
+ "Komanda": [
+  {
+   "Nosaukums": "Skolmeistari",
+   "Speletaji": {"Speletajs": [
+    {
+     "Loma": "A",
+     "Nr": 9,
+     "Uzvards": "Debess",
+     "Vards": "Nils"
+    },
+    {
+     "Loma": "A",
+     "Nr": 21,
+     "Uzvards": "Zibens",
+     "Vards": "Vilhelms"
+    },
+    {
+     "Loma": "V",
+     "Nr": 22,
+     "Uzvards": "Rausis",
+     "Vards": "Vidmants"
+    },
+    {
+     "Loma": "A",
+     "Nr": 25,
+     "Uzvards": "Zibens",
+     "Vards": "Janka"
+    },
+    {
+     "Loma": "U",
+     "Nr": 28,
+     "Uzvards": "Palodze",
+     "Vards": "Rihards"
+    },
+    {
+     "Loma": "A",
+     "Nr": 30,
+     "Uzvards": "Paraugs",
+     "Vards": "Ciltvairis"
+    },
+    {
+     "Loma": "A",
+     "Nr": 33,
+     "Uzvards": "Antena",
+     "Vards": "Bo"
+    },
+    {
+     "Loma": "U",
+     "Nr": 34,
+     "Uzvards": "Grants",
+     "Vards": "Linards"
+    },
+    {
+     "Loma": "U",
+     "Nr": 36,
+     "Uzvards": "Rokturis",
+     "Vards": "Francis"
+    },
+    {
+     "Loma": "A",
+     "Nr": 39,
+     "Uzvards": "Svilpe",
+     "Vards": "Einars"
+    },
+    {
+     "Loma": "V",
+     "Nr": 41,
+     "Uzvards": "Zirnis",
+     "Vards": "Anderss"
+    },
+    {
+     "Loma": "A",
+     "Nr": 44,
+     "Uzvards": "Kompass",
+     "Vards": "Rolands"
+    },
+    {
+     "Loma": "U",
+     "Nr": 47,
+     "Uzvards": "Kabacis",
+     "Vards": "Kens"
+    }
+   ]},
+   "Pamatsastavs": {"Speletajs": [
+    {"Nr": 39},
+    {"Nr": 9},
+    {"Nr": 33},
+    {"Nr": 30},
+    {"Nr": 36},
+    {"Nr": 28},
+    {"Nr": 44},
+    {"Nr": 21},
+    {"Nr": 22},
+    {"Nr": 47}
+   ]},
+   "Varti": "",
+   "Mainas": "",
+   "Sodi": {"Sods": [
+    {
+     "Laiks": "13:47",
+     "Nr": 47
+    },
+    {
+     "Laiks": "23:06",
+     "Nr": 30
+    }
+   ]}
+  },
+  {
+   "Nosaukums": "Barcelona",
+   "Speletaji": {"Speletajs": [
+    {
+     "Loma": "V",
+     "Nr": 16,
+     "Uzvards": "Sam",
+     "Vards": "Sidney"
+    },
+    {
+     "Loma": "A",
+     "Nr": 17,
+     "Uzvards": "Cisovsky",
+     "Vards": "Marian"
+    },
+    {
+     "Loma": "U",
+     "Nr": 24,
+     "Uzvards": "Verratti",
+     "Vards": "Marco"
+    },
+    {
+     "Loma": "A",
+     "Nr": 27,
+     "Uzvards": "Hummels",
+     "Vards": "Mats"
+    },
+    {
+     "Loma": "U",
+     "Nr": 33,
+     "Uzvards": "Quintero",
+     "Vards": "Juan"
+    },
+    {
+     "Loma": "U",
+     "Nr": 37,
+     "Uzvards": "Díaz",
+     "Vards": "Marcelo"
+    },
+    {
+     "Loma": "A",
+     "Nr": 39,
+     "Uzvards": "Criscito",
+     "Vards": "Domenico"
+    },
+    {
+     "Loma": "A",
+     "Nr": 55,
+     "Uzvards": "Filip",
+     "Vards": "Lucian"
+    },
+    {
+     "Loma": "V",
+     "Nr": 56,
+     "Uzvards": "Saviola",
+     "Vards": "Javier"
+    },
+    {
+     "Loma": "A",
+     "Nr": 64,
+     "Uzvards": "Streller",
+     "Vards": "Marco"
+    },
+    {
+     "Loma": "U",
+     "Nr": 73,
+     "Uzvards": "Weidenfeller",
+     "Vards": "Roman"
+    },
+    {
+     "Loma": "A",
+     "Nr": 75,
+     "Uzvards": "Amelia",
+     "Vards": "Marco"
+    },
+    {
+     "Loma": "A",
+     "Nr": 84,
+     "Uzvards": "Sandro",
+     "Vards": "Alex"
+    },
+    {
+     "Loma": "U",
+     "Nr": 89,
+     "Uzvards": "Djuricic",
+     "Vards": "Filip"
+    },
+    {
+     "Loma": "A",
+     "Nr": 94,
+     "Uzvards": "Varela",
+     "Vards": "Silvestre"
+    },
+    {
+     "Loma": "A",
+     "Nr": 96,
+     "Uzvards": "Sauro",
+     "Vards": "Gastón"
+    }
+   ]},
+   "Pamatsastavs": {"Speletajs": [
+    {"Nr": 73},
+    {"Nr": 24},
+    {"Nr": 27},
+    {"Nr": 96},
+    {"Nr": 16},
+    {"Nr": 89},
+    {"Nr": 39},
+    {"Nr": 17}
+   ]},
+   "Varti": {"VG": {
+    "Laiks": "18:10",
+    "Nr": 96,
+    "Sitiens": "J"
+   }},
+   "Mainas": "",
+   "Sodi": {"Sods": [
+    {
+     "Laiks": "09:20",
+     "Nr": 73
+    },
+    {
+     "Laiks": "29:45",
+     "Nr": 24
+    },
+    {
+     "Laiks": "37:19",
+     "Nr": 24
+    }
+   ]}
+  }
+ ],
+ "VT": {
+  "Uzvards": "Prompa",
+  "Vards": "Pedro"
+ }
+}}

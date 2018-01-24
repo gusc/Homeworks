@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Spele Laiks="2017/01/12" Skatitaji="7302" Vieta="Athens Olympic Stadium">
+    <Komanda Nosaukums="Skolmeistari">
+        <Speletaji>
+            <Speletajs Loma="A" Uzvards="Debess" Vards="Nils" Nr="9"/>
+            <Speletajs Loma="A" Uzvards="Zibens" Vards="Vilhelms" Nr="21"/>
+            <Speletajs Loma="V" Uzvards="Rausis" Vards="Vidmants" Nr="22"/>
+            <Speletajs Loma="A" Uzvards="Zibens" Vards="Janka" Nr="25"/>
+            <Speletajs Loma="U" Uzvards="Palodze" Vards="Rihards" Nr="28"/>
+            <Speletajs Loma="A" Uzvards="Paraugs" Vards="Ciltvairis" Nr="30"/>
+            <Speletajs Loma="A" Uzvards="Antena" Vards="Bo" Nr="33"/>
+            <Speletajs Loma="U" Uzvards="Grants" Vards="Linards" Nr="34"/>
+            <Speletajs Loma="U" Uzvards="Rokturis" Vards="Francis" Nr="36"/>
+            <Speletajs Loma="A" Uzvards="Svilpe" Vards="Einars" Nr="39"/>
+            <Speletajs Loma="V" Uzvards="Zirnis" Vards="Anderss" Nr="41"/>
+            <Speletajs Loma="A" Uzvards="Kompass" Vards="Rolands" Nr="44"/>
+            <Speletajs Loma="U" Uzvards="Kabacis" Vards="Kens" Nr="47"/>
+        </Speletaji>
+        <Mainas>
+            <Maina Laiks="09:31" Nr1="30" Nr2="33"/>
+            <Maina Laiks="20:45" Nr1="21" Nr2="36"/>
+            <Maina Laiks="32:25" Nr1="28" Nr2="41"/>
+        </Mainas>
+        <Pamatsastavs>
+            <Speletajs Nr="47"/>
+            <Speletajs Nr="21"/>
+            <Speletajs Nr="44"/>
+            <Speletajs Nr="34"/>
+            <Speletajs Nr="28"/>
+            <Speletajs Nr="22"/>
+            <Speletajs Nr="30"/>
+            <Speletajs Nr="9"/>
+            <Speletajs Nr="25"/>
+            <Speletajs Nr="39"/>
+        </Pamatsastavs>
+        <Sodi>
+            <Sods Laiks="48:49" Nr="9"/>
+        </Sodi>
+        <Varti>
+            <VG Laiks="14:42" Nr="21" Sitiens="J"/>
+            <VG Laiks="41:02" Nr="39" Sitiens="N"/>
+        </Varti>
+    </Komanda>
+    <Komanda Nosaukums="Veiklie">
+        <Speletaji>
+            <Speletajs Loma="U" Uzvards="Pitagors" Vards="Saulvedis" Nr="11"/>
+            <Speletajs Loma="A" Uzvards="Svilpe" Vards="Janka" Nr="13"/>
+            <Speletajs Loma="A" Uzvards="Rums" Vards="Harijs" Nr="16"/>
+            <Speletajs Loma="A" Uzvards="Eholots" Vards="Ciltvairis" Nr="18"/>
+            <Speletajs Loma="V" Uzvards="Pitagors" Vards="Gints" Nr="27"/>
+            <Speletajs Loma="U" Uzvards="Zemene" Vards="Vilhelms" Nr="29"/>
+            <Speletajs Loma="U" Uzvards="Pipars" Vards="Tims" Nr="36"/>
+            <Speletajs Loma="U" Uzvards="Paraugs" Vards="Ciltvairis" Nr="38"/>
+            <Speletajs Loma="A" Uzvards="Draugs" Vards="Saulvedis" Nr="40"/>
+            <Speletajs Loma="U" Uzvards="Kompass" Vards="Almonds" Nr="43"/>
+            <Speletajs Loma="U" Uzvards="Pudele" Vards="Saulvedis" Nr="52"/>
+            <Speletajs Loma="U" Uzvards="Jumts" Vards="Saulvedis" Nr="55"/>
+            <Speletajs Loma="U" Uzvards="Rums" Vards="Vidmants" Nr="58"/>
+            <Speletajs Loma="A" Uzvards="Zilonis" Vards="Valters" Nr="63"/>
+            <Speletajs Loma="U" Uzvards="Skuja" Vards="Armands" Nr="66"/>
+            <Speletajs Loma="V" Uzvards="Rokturis" Vards="Igors" Nr="71"/>
+        </Speletaji>
+        <Mainas/>
+        <Pamatsastavs>
+            <Speletajs Nr="38"/>
+            <Speletajs Nr="36"/>
+            <Speletajs Nr="18"/>
+            <Speletajs Nr="52"/>
+            <Speletajs Nr="29"/>
+            <Speletajs Nr="58"/>
+            <Speletajs Nr="27"/>
+            <Speletajs Nr="71"/>
+            <Speletajs Nr="16"/>
+            <Speletajs Nr="63"/>
+            <Speletajs Nr="43"/>
+        </Pamatsastavs>
+        <Sodi>
+            <Sods Laiks="58:20" Nr="38"/>
+        </Sodi>
+        <Varti/>
+    </Komanda>
+    <T Uzvards="Prompa" Vards="Pedro"/>
+    <T Uzvards="Antamo" Vards="Dennis"/>
+    <VT Uzvards="Hänninen" Vards="Marko"/>
+</Spele>

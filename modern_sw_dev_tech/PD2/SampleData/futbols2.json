@@ -1,0 +1,269 @@
+{"Spele": {
+ "Laiks": "2017/01/12",
+ "Skatitaji": 7302,
+ "Vieta": "Athens Olympic Stadium",
+ "T": [
+  {
+   "Uzvards": "Prompa",
+   "Vards": "Pedro"
+  },
+  {
+   "Uzvards": "Antamo",
+   "Vards": "Dennis"
+  }
+ ],
+ "Komanda": [
+  {
+   "Nosaukums": "Skolmeistari",
+   "Speletaji": {"Speletajs": [
+    {
+     "Loma": "A",
+     "Nr": 9,
+     "Uzvards": "Debess",
+     "Vards": "Nils"
+    },
+    {
+     "Loma": "A",
+     "Nr": 21,
+     "Uzvards": "Zibens",
+     "Vards": "Vilhelms"
+    },
+    {
+     "Loma": "V",
+     "Nr": 22,
+     "Uzvards": "Rausis",
+     "Vards": "Vidmants"
+    },
+    {
+     "Loma": "A",
+     "Nr": 25,
+     "Uzvards": "Zibens",
+     "Vards": "Janka"
+    },
+    {
+     "Loma": "U",
+     "Nr": 28,
+     "Uzvards": "Palodze",
+     "Vards": "Rihards"
+    },
+    {
+     "Loma": "A",
+     "Nr": 30,
+     "Uzvards": "Paraugs",
+     "Vards": "Ciltvairis"
+    },
+    {
+     "Loma": "A",
+     "Nr": 33,
+     "Uzvards": "Antena",
+     "Vards": "Bo"
+    },
+    {
+     "Loma": "U",
+     "Nr": 34,
+     "Uzvards": "Grants",
+     "Vards": "Linards"
+    },
+    {
+     "Loma": "U",
+     "Nr": 36,
+     "Uzvards": "Rokturis",
+     "Vards": "Francis"
+    },
+    {
+     "Loma": "A",
+     "Nr": 39,
+     "Uzvards": "Svilpe",
+     "Vards": "Einars"
+    },
+    {
+     "Loma": "V",
+     "Nr": 41,
+     "Uzvards": "Zirnis",
+     "Vards": "Anderss"
+    },
+    {
+     "Loma": "A",
+     "Nr": 44,
+     "Uzvards": "Kompass",
+     "Vards": "Rolands"
+    },
+    {
+     "Loma": "U",
+     "Nr": 47,
+     "Uzvards": "Kabacis",
+     "Vards": "Kens"
+    }
+   ]},
+   "Pamatsastavs": {"Speletajs": [
+    {"Nr": 47},
+    {"Nr": 21},
+    {"Nr": 44},
+    {"Nr": 34},
+    {"Nr": 28},
+    {"Nr": 22},
+    {"Nr": 30},
+    {"Nr": 9},
+    {"Nr": 25},
+    {"Nr": 39}
+   ]},
+   "Varti": {"VG": [
+    {
+     "Laiks": "14:42",
+     "Nr": 21,
+     "Sitiens": "J"
+    },
+    {
+     "Laiks": "41:02",
+     "Nr": 39,
+     "Sitiens": "N"
+    }
+   ]},
+   "Mainas": {"Maina": [
+    {
+     "Laiks": "09:31",
+     "Nr1": 30,
+     "Nr2": 33
+    },
+    {
+     "Laiks": "20:45",
+     "Nr1": 21,
+     "Nr2": 36
+    },
+    {
+     "Laiks": "32:25",
+     "Nr1": 28,
+     "Nr2": 41
+    }
+   ]},
+   "Sodi": {"Sods": {
+    "Laiks": "48:49",
+    "Nr": 9
+   }}
+  },
+  {
+   "Nosaukums": "Veiklie",
+   "Speletaji": {"Speletajs": [
+    {
+     "Loma": "U",
+     "Nr": 11,
+     "Uzvards": "Pitagors",
+     "Vards": "Saulvedis"
+    },
+    {
+     "Loma": "A",
+     "Nr": 13,
+     "Uzvards": "Svilpe",
+     "Vards": "Janka"
+    },
+    {
+     "Loma": "A",
+     "Nr": 16,
+     "Uzvards": "Rums",
+     "Vards": "Harijs"
+    },
+    {
+     "Loma": "A",
+     "Nr": 18,
+     "Uzvards": "Eholots",
+     "Vards": "Ciltvairis"
+    },
+    {
+     "Loma": "V",
+     "Nr": 27,
+     "Uzvards": "Pitagors",
+     "Vards": "Gints"
+    },
+    {
+     "Loma": "U",
+     "Nr": 29,
+     "Uzvards": "Zemene",
+     "Vards": "Vilhelms"
+    },
+    {
+     "Loma": "U",
+     "Nr": 36,
+     "Uzvards": "Pipars",
+     "Vards": "Tims"
+    },
+    {
+     "Loma": "U",
+     "Nr": 38,
+     "Uzvards": "Paraugs",
+     "Vards": "Ciltvairis"
+    },
+    {
+     "Loma": "A",
+     "Nr": 40,
+     "Uzvards": "Draugs",
+     "Vards": "Saulvedis"
+    },
+    {
+     "Loma": "U",
+     "Nr": 43,
+     "Uzvards": "Kompass",
+     "Vards": "Almonds"
+    },
+    {
+     "Loma": "U",
+     "Nr": 52,
+     "Uzvards": "Pudele",
+     "Vards": "Saulvedis"
+    },
+    {
+     "Loma": "U",
+     "Nr": 55,
+     "Uzvards": "Jumts",
+     "Vards": "Saulvedis"
+    },
+    {
+     "Loma": "U",
+     "Nr": 58,
+     "Uzvards": "Rums",
+     "Vards": "Vidmants"
+    },
+    {
+     "Loma": "A",
+     "Nr": 63,
+     "Uzvards": "Zilonis",
+     "Vards": "Valters"
+    },
+    {
+     "Loma": "U",
+     "Nr": 66,
+     "Uzvards": "Skuja",
+     "Vards": "Armands"
+    },
+    {
+     "Loma": "V",
+     "Nr": 71,
+     "Uzvards": "Rokturis",
+     "Vards": "Igors"
+    }
+   ]},
+   "Pamatsastavs": {"Speletajs": [
+    {"Nr": 38},
+    {"Nr": 36},
+    {"Nr": 18},
+    {"Nr": 52},
+    {"Nr": 29},
+    {"Nr": 58},
+    {"Nr": 27},
+    {"Nr": 71},
+    {"Nr": 16},
+    {"Nr": 63},
+    {"Nr": 43}
+   ]},
+   "Varti": "",
+   "Mainas": "",
+   "Sodi": {"Sods": {
+    "Laiks": "58:20",
+    "Nr": 38
+   }}
+  }
+ ],
+ "VT": {
+  "Uzvards": "Hänninen",
+  "Vards": "Marko"
+ }
+}}

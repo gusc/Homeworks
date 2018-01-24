@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Spele Laiks="2017/01/20" Skatitaji="5743" Vieta="Athens Olympic Stadium">
+    <Komanda Nosaukums="Veiklie">
+        <Speletaji>
+            <Speletajs Loma="U" Uzvards="Pitagors" Vards="Saulvedis" Nr="11"/>
+            <Speletajs Loma="A" Uzvards="Svilpe" Vards="Janka" Nr="13"/>
+            <Speletajs Loma="A" Uzvards="Rums" Vards="Harijs" Nr="16"/>
+            <Speletajs Loma="A" Uzvards="Eholots" Vards="Ciltvairis" Nr="18"/>
+            <Speletajs Loma="V" Uzvards="Pitagors" Vards="Gints" Nr="27"/>
+            <Speletajs Loma="U" Uzvards="Zemene" Vards="Vilhelms" Nr="29"/>
+            <Speletajs Loma="U" Uzvards="Pipars" Vards="Tims" Nr="36"/>
+            <Speletajs Loma="U" Uzvards="Paraugs" Vards="Ciltvairis" Nr="38"/>
+            <Speletajs Loma="A" Uzvards="Draugs" Vards="Saulvedis" Nr="40"/>
+            <Speletajs Loma="U" Uzvards="Kompass" Vards="Almonds" Nr="43"/>
+            <Speletajs Loma="U" Uzvards="Pudele" Vards="Saulvedis" Nr="52"/>
+            <Speletajs Loma="U" Uzvards="Jumts" Vards="Saulvedis" Nr="55"/>
+            <Speletajs Loma="U" Uzvards="Rums" Vards="Vidmants" Nr="58"/>
+            <Speletajs Loma="A" Uzvards="Zilonis" Vards="Valters" Nr="63"/>
+            <Speletajs Loma="U" Uzvards="Skuja" Vards="Armands" Nr="66"/>
+            <Speletajs Loma="V" Uzvards="Rokturis" Vards="Igors" Nr="71"/>
+        </Speletaji>
+        <Mainas/>
+        <Pamatsastavs>
+            <Speletajs Nr="18"/>
+            <Speletajs Nr="29"/>
+            <Speletajs Nr="43"/>
+            <Speletajs Nr="13"/>
+            <Speletajs Nr="63"/>
+            <Speletajs Nr="11"/>
+            <Speletajs Nr="58"/>
+            <Speletajs Nr="16"/>
+            <Speletajs Nr="27"/>
+            <Speletajs Nr="52"/>
+        </Pamatsastavs>
+        <Sodi>
+            <Sods Laiks="15:45" Nr="63"/>
+        </Sodi>
+        <Varti>
+            <VG Laiks="06:12" Nr="58" Sitiens="J"/>
+            <VG Laiks="10:16" Nr="63" Sitiens="J"/>
+        </Varti>
+    </Komanda>
+    <Komanda Nosaukums="Barcelona">
+        <Speletaji>
+            <Speletajs Loma="V" Uzvards="Sam" Vards="Sidney" Nr="16"/>
+            <Speletajs Loma="A" Uzvards="Cisovsky" Vards="Marian" Nr="17"/>
+            <Speletajs Loma="U" Uzvards="Verratti" Vards="Marco" Nr="24"/>
+            <Speletajs Loma="A" Uzvards="Hummels" Vards="Mats" Nr="27"/>
+            <Speletajs Loma="U" Uzvards="Quintero" Vards="Juan" Nr="33"/>
+            <Speletajs Loma="U" Uzvards="Díaz" Vards="Marcelo" Nr="37"/>
+            <Speletajs Loma="A" Uzvards="Criscito" Vards="Domenico" Nr="39"/>
+            <Speletajs Loma="A" Uzvards="Filip" Vards="Lucian" Nr="55"/>
+            <Speletajs Loma="V" Uzvards="Saviola" Vards="Javier" Nr="56"/>
+            <Speletajs Loma="A" Uzvards="Streller" Vards="Marco" Nr="64"/>
+            <Speletajs Loma="U" Uzvards="Weidenfeller" Vards="Roman" Nr="73"/>
+            <Speletajs Loma="A" Uzvards="Amelia" Vards="Marco" Nr="75"/>
+            <Speletajs Loma="A" Uzvards="Sandro" Vards="Alex" Nr="84"/>
+            <Speletajs Loma="U" Uzvards="Djuricic" Vards="Filip" Nr="89"/>
+            <Speletajs Loma="A" Uzvards="Varela" Vards="Silvestre" Nr="94"/>
+            <Speletajs Loma="A" Uzvards="Sauro" Vards="Gastón" Nr="96"/>
+        </Speletaji>
+        <Mainas>
+            <Maina Laiks="25:04" Nr1="56" Nr2="94"/>
+            <Maina Laiks="32:39" Nr1="33" Nr2="89"/>
+            <Maina Laiks="45:06" Nr1="55" Nr2="75"/>
+        </Mainas>
+        <Pamatsastavs>
+            <Speletajs Nr="24"/>
+            <Speletajs Nr="39"/>
+            <Speletajs Nr="84"/>
+            <Speletajs Nr="33"/>
+            <Speletajs Nr="55"/>
+            <Speletajs Nr="17"/>
+            <Speletajs Nr="56"/>
+        </Pamatsastavs>
+        <Sodi/>
+        <Varti>
+            <VG Laiks="13:15" Nr="24" Sitiens="J"/>
+        </Varti>
+    </Komanda>
+    <T Uzvards="Layushkin" Vards="Maxim"/>
+    <T Uzvards="Rausis" Vards="Rihards"/>
+    <VT Uzvards="Prompa" Vards="Pedro"/>
+</Spele>
