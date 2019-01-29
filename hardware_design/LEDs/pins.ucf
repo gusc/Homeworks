@@ -1,0 +1,8 @@
+NET "led_0" LOC = "F12";
+NET "led_1" LOC = "E12";
+NET "led_2" LOC = "E11";
+NET "sw_0" LOC = "L13";
+NET "sw_1" LOC = "L14";
+NET "sw_2" LOC = "H18";
+NET "sw_3" LOC = "N17";
+NET "clk" LOC = "C9";

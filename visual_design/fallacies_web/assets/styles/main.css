@@ -1,0 +1,203 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+html, body {
+    width: 100%;
+    font-family: "Roboto", Arial, "Helvetica Neue", sans-serif;
+    font-size: 3vh;
+}
+article {
+    background-color: #000000;
+    color: #ffffff;
+}
+section {
+    background-color: #ffffff;
+}
+article a {
+    color: #eeeeee;
+}
+article, section {
+    padding: 5vh 5vw 10vh;
+    position: relative;
+    overflow: hidden;
+    width: 90vw;
+}
+h1, h2 {
+    font-family: "Roboto Condensed", "Arial Black", "Helvetica Neue", sans-serif;
+    margin-bottom: 1vh;
+}
+h2 figure {
+    display: inline-block;
+    margin-right: 2vw;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+p {
+    margin-bottom: 1vh;
+}
+p.main {
+    font-family: "Thasadith", "Arial Narrow", "Helvetica", sans-serif;
+}
+nav {
+    position: absolute;
+    bottom: 15vh;
+}
+nav li {
+    display: inline-block;
+    padding-right: 1vw;
+}
+nav p a {
+    text-decoration: none;
+}
+#switch-typical {
+    text-decoration: underline;
+}
+body.original #switch-typical {
+    text-decoration: none;
+}
+body.original #switch-original {
+    text-decoration: underline;
+}
+@media only screen and (min-width: 960px) {
+    section span.bg {
+        position: absolute;
+        left: -5vw;
+        top: -5vh;
+        right: -5vw;
+        bottom: -5vh;
+        display: block;
+        background-size: cover;
+        z-index: 10;
+    }
+    article.fixed,
+    section.fixed {
+        position: fixed;
+        top: 0;
+        z-index: -1;
+    }
+    h1 {
+        font-size: 12vh;
+    }
+    h2 {
+        font-size: 10vh;
+    }
+    h2 figure {
+        width: 10vh;
+        height: 10vh;
+        position: absolute;
+        left: -12vh;
+    }
+    p.main {
+        font-size: 5vh;
+    }
+    article,
+    section {
+        min-height: 85vh;
+    }
+    section div {
+        position: relative;
+        width: 70vw;
+        opacity: 0;
+        transition: opacity 0.3s;
+        z-index: 20;
+    }
+    section.fixed div,
+    section.fixed-last div{
+        opacity: 1.0;
+    }
+    section span.bg {
+        opacity: 1.0;
+        transition: opacity 0.7s;
+    }
+    section.fixed span.bg,
+    section.fixed-last span.bg{
+        opacity: 0.3;
+    }
+
+    #anchor div { position: absolute; right: 5vw; text-align: right; }
+    #anchor figure { position: relative; left: auto; top: 1vw; }
+    #mind div { position: absolute; left: 8vw; bottom: 10vh; }
+    #knowledge div { position: absolute; bottom: 10vh; right: 5vw; text-align: right; }
+    #knowledge figure { position: relative; left: auto; }
+    #confirm div { position: absolute; left: 8vw; top: 50vh; transform: translateY(-50%); }
+    #einstein div { position: absolute; left: 8vw; bottom: 10vh; }
+    #negativity div { position: absolute; right: 5vw; text-align: right; }
+    #negativity figure { position: relative; left: auto; top: 1vw; }
+    #past div { left: 5vw; width: 45vw; }
+    #love div { position: absolute; right: 5vw; width: 40vw; }
+    #optimist div { position: absolute; left: 8vw; top: 50vh; transform: translateY(-50%); }
+    #groups div { position: absolute; bottom: 10vh; right: 5vw; text-align: right; }
+    #groups figure { position: relative; left: auto; top: 1vw; }
+    #placebo div { width: 45vw; left: 5vw; }
+    #standing div { left: 8vw; }
+}
+@media screen and (max-width: 960px) {
+    h1 {
+        font-size: 10vh;
+    }
+    h2 {
+        font-size: 8vh;
+    }
+    h2 figure {
+        width: 8vh;
+        height: 8vh;
+    }
+    p.main {
+        font-size: 5vh;
+    }
+    nav {
+        position: relative;
+        bottom: auto;
+    }
+    section span.bg {
+        display: block;
+        background-size: cover;
+        background-position: center;
+        width: 100vw;
+        height: 45vh;
+        margin-left: -5vw;
+        margin-top: -5vh;
+        margin-bottom: 5vh;
+    }
+}
+
+#anchor span.bg { background-image: url("../photos/1-ship.jpg") }
+#mind span.bg { background-image: url("../photos/2-thinking.jpg") }
+#knowledge span.bg { background-image: url("../photos/3-knowing.jpg") }
+#confirm span.bg { background-image: url("../photos/4-bielief.jpg") }
+#einstein span.bg { background-image: url("../photos/5-math.jpg") }
+#negativity span.bg { background-image: url("../photos/6-negative.jpg") }
+#past span.bg { background-image: url("../photos/7-past.jpg") }
+#love span.bg { background-image: url("../photos/8-beauty.jpg") }
+#optimist span.bg { background-image: url("../photos/9-optimism.jpg") }
+#groups span.bg { background-image: url("../photos/10-in-group.jpg") }
+#placebo span.bg { background-image: url("../photos/11-headache.jpg") }
+#standing span.bg { background-image: url("../photos/12-standing.jpg") }
+
+#anchor figure { background-image: url("../icons/1-anchor-96.png") }
+#mind figure { background-image: url("../icons/2-comes-to-mind100.png") }
+#knowledge figure { background-image: url("../icons/3-knowledge-96.png") }
+#confirm figure { background-image: url("../icons/4-confirm-96.png") }
+#einstein figure { background-image: url("../icons/5-einstein-96.png") }
+#negativity figure { background-image: url("../icons/6-negativity-96.png") }
+#past figure { background-image: url("../icons/7-past-96.png") }
+#love figure { background-image: url("../icons/8-love-96.png") }
+#optimist figure { background-image: url("../icons/9-optimist-96.png") }
+#groups figure { background-image: url("../icons/10-groups-96.png") }
+#placebo figure { background-image: url("../icons/11-placebo-100.png") }
+#standing figure { background-image: url("../icons/12-standing-man-96.png") }
+
+body.original #anchor figure { background-image: url("../icons-original/1-anchor-96.png") }
+body.original #mind figure { background-image: url("../icons-original/2-comes-to-mind100.png") }
+body.original #knowledge figure { background-image: url("../icons-original/3-knowledge-96.png") }
+body.original #confirm figure { background-image: url("../icons-original/4-confirm-96.png") }
+body.original #einstein figure { background-image: url("../icons-original/5-einstein-96.png") }
+body.original #negativity figure { background-image: url("../icons-original/6-negativity-96.png") }
+body.original #past figure { background-image: url("../icons-original/7-past-96.png") }
+body.original #love figure { background-image: url("../icons-original/8-love-96.png") }
+body.original #optimist figure { background-image: url("../icons-original/9-optimist-96.png") }
+body.original #groups figure { background-image: url("../icons-original/10-groups-96.png") }
+body.original #placebo figure { background-image: url("../icons-original/11-placebo-100.png") }
+body.original #standing figure { background-image: url("../icons-original/12-standing-man-96.png") }
