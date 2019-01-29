@@ -1,0 +1,9 @@
+[submodule "cognition/BetweennessTest"]
+	path = cognition/BetweennessTest
+	url = https://github.com/gusc/BetweennessTest
+[submodule "sensor_networks/WeatherStation"]
+	path = sensor_networks/WeatherStation
+	url = https://github.com/gusc/WeatherStation
+[submodule "hardware_design/fpga_synth"]
+	path = hardware_design/fpga_synth
+	url = https://github.com/gusc/fpga_synth
